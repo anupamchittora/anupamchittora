@@ -2,7 +2,7 @@
 
 🎓 **Electronics and Communication Engineering**  
 🏫 *Malviya National Institute of Technology, Jaipur (MNIT Jaipur)*  
-📧 anupamchittora@gmail.com  
+📧 anupamchittora12345@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/anupamchittora) • [GitHub](https://github.com/anupamchittora)
 
 ---
