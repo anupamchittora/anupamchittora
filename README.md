@@ -1,49 +1,69 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi, I'm Anupam Chittora
 
-###
+🎓 **Electronics and Communication Engineering**  
+🏫 *Malviya National Institute of Technology, Jaipur (MNIT Jaipur)*  
+📧 anupamchittora@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/anupamchittora) • [GitHub](https://github.com/anupamchittora)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+I'm a passionate engineering undergraduate (Batch of 2026) at MNIT Jaipur with a strong foundation in **C++**, **Python**, and **digital systems**, driven by a love for solving real-world problems through code and innovation. My interests lie at the intersection of **software development**, **machine learning**, and **systems programming**.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🧠 Skills
 
-###
+**Languages**  
+`C++` `Python` `JavaScript` `CSS` `SQL` `Verilog HDL` `Embedded C`
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**Frameworks / Libraries**  
+`OpenCV` `TensorFlow` `Scikit-learn` `Pandas` `NLTK`
 
-###
+**Tools & Platforms**  
+`MATLAB` `LTSpice` `Simulink` `Proteus` `Keil` `VS Code`
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🛠️ Projects
 
-###
+### 🔹 Razorpay Website Clone (Tailwind CSS)
+- Developed a fully responsive Razorpay UI clone using **Tailwind CSS**
+- Focused on **mobile-first design**, modern UX principles, and layout consistency across devices
+
+### 🔹 CPU Scheduling Algorithm Simulator (C++ / OS Mini Project)
+- Simulated various CPU scheduling policies: **Round Robin**, **SJF**, **Priority**
+- Designed a modular system for task scheduling with **preemption** and **dynamic priority**
+
+### 🔹 Face Recognition using KNN (Python + OpenCV)
+- Built a **face recognition system** using the **K-Nearest Neighbors** algorithm
+- Integrated **OpenCV** for image processing and **Haar Cascades** for face detection
+
+---
+
+## 🎖️ Achievements
+
+- 🏆 **Top 3.95%** in **JEE Advanced** (2022) out of 2.5 lakh candidates  
+- 💯 **99.00 Percentile** in **JEE Mains** among 10+ lakh participants  
+- 🥇 Scored **AA (10/10)** in 5 core Electrical Engineering courses  
+
+---
+
+## 📚 Certifications
+
+- **Data Structures & Algorithms (C++)** – *Coding Club India*  
+- **Microeconomics Principles** – *University of Illinois at Urbana-Champaign (Coursera)*
+
+---
+
+## 🌐 Let's Connect
+
+I'm always open to collaborating on open-source projects, internships, and learning opportunities. Let's connect!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/anupamchittora)  
+🐱 [GitHub](https://github.com/anupamchittora)
+
+---
+
+*“Code is the closest thing we have to magic.”* ✨
