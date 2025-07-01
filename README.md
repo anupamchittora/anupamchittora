@@ -14,12 +14,13 @@
 
 ## 🚀 About Me
 
-🧑‍🎓 I’m Anupam Chittora from Jaipur — an Electronics & Communication Engineering undergrad at MNIT Jaipur and alumnus of DAV Public School, Kota, driven by curiosity and a passion for building.
-🔬 Passionate about Data Science, Deep Learning, and IoT-based Systems
-💻 Experienced in Full-Stack Web Development, Real-Time Applications, and Interactive Visual Tools
-🎨 Developer of node-based image editors, predictive dashboards, and advanced MRI classification pipelines
-📊 Former General Secretary, Technical Communication House, leading workshops and industry sessions
-🚀 Project-driven learner with hands-on expertise across PyTorch, React, OpenCV, Azure, and more
+🧑‍🎓 I'm Anupam Chittora from Jaipur — an *Electronics & Communication Engineering undergrad at MNIT Jaipur* and alumnus of *DAV Public School, Kota*, driven by curiosity and a passion for building.  
+🔬 Passionate about *Data Science*, *Deep Learning*, and *IoT-based Systems*  
+💻 Experienced in *Full-Stack Web Development*, *Real-Time Applications*, and *Interactive Visual Tools*  
+🎨 Developer of *node-based image editors*, *predictive dashboards*, and *advanced MRI classification pipelines*  
+📊 Former *General Secretary, Technical Communication House*, leading *workshops* and *industry sessions*  
+🚀 Project-driven learner with hands-on expertise across *PyTorch*, *React*, *OpenCV*, *Azure*, and more
+
 ---
 
 ## 🧰 Tech Stack
@@ -44,8 +45,9 @@ StackHive is a complex Q&A platform for developers to ask questions, share knowl
 🖼️ <a href="https://www.youtube.com/watch?v=FYD48PZWVWs&t=7s">Node-Based Image Manipulation Interface</a>
 An interactive image editor built with ImGui, OpenGL, and OpenCV. Enables users to create visual filter pipelines using a node graph interface.
 
-💬 <a href="https://talk-a-tive-vsrp.onrender.com/">Talk-A-Tive: Full Stack Chatting App</a>
-A real-time chat app with one-on-one messaging, typing indicators, and delivery status using MERN stack and Socket.io.
+💬 <a href="https://talk-a-tive-vsrp.onrender.com/">Talk-A-Tive: Full-Stack Chatting App</a>  
+A real-time chat application featuring one-on-one messaging, typing indicators, and delivery status, built using the **MERN stack** and **Socket.io**.
+
 ---
 
 ## 📜 Statistics
